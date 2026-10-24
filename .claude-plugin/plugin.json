@@ -1,0 +1,11 @@
+{
+  "name": "orquestrar",
+  "version": "1.0.0",
+  "description": "Skill /orquestrar: divide uma tarefa grande, delega para workers Haiku e verifica cada entrega, com o painel do agents-progress.",
+  "author": {
+    "name": "Leonardo Silva",
+    "url": "https://github.com/leosilva-dev"
+  },
+  "repository": "https://github.com/leosilva-dev/orquestrar-skill",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "orquestrar-skill",
+  "description": "Marketplace da skill orquestrar.",
+  "owner": {
+    "name": "Leonardo Silva"
+  },
+  "plugins": [
+    {
+      "name": "orquestrar",
+      "source": "./"
+    }
+  ]
+}
